@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Falso Cavaleiro",
+    "area": "Esquinas Esquecidas",
+    "hp": 130,
+    "Recompensas": "Nenhum",
+    "description": "Um magro verme vivendo dentro da armadura de um dos Grandes Cavaleiros.",
+    "image": "https://br.images.search.yahoo.com/search/images;_ylt=A2RRsliaT9pq5QIA.ir16Qt.;_ylc=X1MDMjExNDcxMDAwNQRfcgMyBGFjdG4Da2V5Ym9hcmQEZnIDbWNhZmVlBGZyMgNzYi10b3AEZ3ByaWQDNHJfQldDeEJReXVZalpaQWJoRk9MQQRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4DYnIuaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzE1BHF1ZXJ5A2ZhbGNvJTIwY2F2YWxlaXJvBHNlYwNzZWFyY2gEc2xrA2J1dHRvbgR0MgNzZWFyY2gEdDQDa2V5Ym9hcmQEdF9zdG1wAzE3OTI2OTI0Njg-?p=falco+cavaleiro&fr=mcafee&fr2=sb-top&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Fhollowknight%2Fimages%2F9%2F98%2FB_False_Knight.png%2Frevision%2Flatest%3Fcb%3D20210610021213%26path-prefix%3Dpt"
+  },
+  {
+    "id": 2,
+    "name": "Hornet",
+    "area": "Caminho Verde",
+    "hp": 220,
+    "Recompensas": "Nenhum",
+    "description": "Protetora de Hallownest que empunha uma agulha e linha.",
+    "image": "https://www.deviantart.com/soul151killer/art/Hornet-(Hollow-Knight)-Render-2-974905736"
+  },
+  {
+    "id": 3,
+    "name": "Radiância Absoluta",
+    "area": "Lar de Deus",
+    "hp": "2200",
+    "Recompensas": "Abrace o Vazio (final)",
+    "description": "A luta mais difícil de Hollow Knight. A Radiância em seu poder máximo, trancada atrás do Panteão de Hallownest. Pura memorização de ritmo e padrões.",
+    "image": "https://www.deviantart.com/soul151killer/art/Hornet-(Hollow-Knight)-Render-2-974905736"
+  },
+  {
+    "id": 4,
+    "name": "Vaso Quebrado",
+    "area": "Bacia Antiga",
+    "hp": " 500",
+    "Recompensas": "Asas de Monarca",
+    "description": "Um irmão fracassado do Cavaleiro, animado pela Infecção. Desajeitado e instável, com golpes previsíveis e uma fase final de explosão. Recompensa o pulo duplo.",
+    "image": "https://www.deviantart.com/soul151killer/art/Hornet-(Hollow-Knight)-Render-2-974905736"
+  },
+ {
+    "id": 5,
+    "name": "Brooding Mawlek",
+    "area": "Encruzilhada esquecida",
+    "hp": " 200",
+    "Recompensas": "Fragmento de máscara",
+    "description": "Uma matriarca mawlek oculta à espreita sob a Encruzilhada Esquecida. Lenta, mas com golpes poderosos. Fácil de atrair para ataques do teto se você ficar perto das paredes.",
+    "image": "https://www.deviantart.com/soul151killer/art/Hornet-(Hollow-Knight)-Render-2-974905736"
+  },
+  {
+    "id": 6,
+    "name": "Irmãos Oro e Mato",
+    "area": "Lar de Deus",
+    "hp": "950",
+    "Recompensas": "Nenhum",
+    "description": "Godhome marca o reencontro dos mestres das unhas Oro e Mato, que estavam afastados, lutando em dupla. Seus ataques se alternam e se sobrepõem, forçando o jogador a lidar com duas ameaças simultaneamente.",
+    "image": "https://www.deviantart.com/soul151killer/art/Hornet-(Hollow-Knight)-Render-2-974905736"
+  }
+]
