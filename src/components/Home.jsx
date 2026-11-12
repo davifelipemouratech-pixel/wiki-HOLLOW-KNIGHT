@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 
-export default function App() {
+export default function Home() {
   const [cards, setCards] = useState([]);
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
