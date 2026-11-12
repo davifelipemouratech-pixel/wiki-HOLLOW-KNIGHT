@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "./components/home";
+import Home from "./components/Home";
 const response = await fetch("/enemies.json");
 function App() {
   return (
